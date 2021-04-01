@@ -1,2 +1,2 @@
 # Fish-Go
-Turtle test
+Termination test
